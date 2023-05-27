@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Artem.<br>
-        Currently learning Python Web back-end.<br>
+        Currently learning Python Web back-end developer.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href='https://t.me/Kurbanov_artem'>

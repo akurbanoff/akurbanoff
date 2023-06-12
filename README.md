@@ -3,8 +3,8 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Artem.<br>
-        Currently learning Python Web back-end developer.<br>
+        I'm Kurbanov Artem.<br>
+        I`m Python Web back-end developer.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href='https://t.me/Kurbanov_artem'>
@@ -31,6 +31,7 @@
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/uspesh)
 [![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-black?style=for-the-badge&logo=sqlalchemy)](https://github.com/uspesh)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/uspesh)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/uspesh)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/uspesh)

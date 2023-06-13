@@ -21,6 +21,19 @@
     </a>
 </p>
 
+<div>
+    <h3>About me</h3>
+    <p>I am 20 years old, I have been studying programming since December 2022. I also study at KubSAU at the Faculty of Finance and Credit.        My main qualities that characterize me are:
+        <ul>
+        <li>rationality</li>
+        <li>calmness</li>
+        <li>learning ability</li>
+        <li>purposefulness.</li>
+        </ul>
+            At the moment I am looking for a job as an intern or junior. All the technologies presented below are familiar to me and I work with them on an ongoing basis.
+    </p>
+</div>
+
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/uspesh)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/uspesh)

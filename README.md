@@ -21,7 +21,7 @@
 <div>
     <h3>About me</h3>
     <p>I am 20 years old, I have been studying programming since December 2022. I also study at KubSAU at the Faculty of Finance and Credit.
-            At the moment I am looking for a job as an intern or junior. All the technologies presented below are familiar to me and I work with them on an ongoing basis.
+            I have experience at building RestAPI service, native android apps. For UI/UX design i use jetpack compose as main base. At the moment I am looking for a job as an intern or junior. All the technologies presented below are familiar to me and I work with them on an ongoing basis.
     </p>
 </div>
 

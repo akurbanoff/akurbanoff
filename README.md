@@ -36,7 +36,7 @@
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/uspesh)
 [![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-black?style=for-the-badge&logo=sqlalchemy)](https://github.com/uspesh)-->
 [![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/uspesh)
-[![Jetpack Compose](https://camo.githubusercontent.com/af64d3cca61e4ed6e4f6590e52a3060bfd6821db1697d4c335b114973316d46b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a65747061636b2b436f6d706f736526636f6c6f723d343238354634266c6f676f3d4a65747061636b2b436f6d706f7365266c6f676f436f6c6f723d464646464646266c6162656c3d)]
+[Jetpack Compose](https://camo.githubusercontent.com/af64d3cca61e4ed6e4f6590e52a3060bfd6821db1697d4c335b114973316d46b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a65747061636b2b436f6d706f736526636f6c6f723d343238354634266c6f676f3d4a65747061636b2b436f6d706f7365266c6f676f436f6c6f723d464646464646266c6162656c3d)
 [![MaterialYou](https://img.shields.io/badge/Material--UI-black?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/uspesh)
 [![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/uspesh)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/uspesh)

@@ -8,7 +8,7 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href='https://t.me/Kurbanov_artem'>
-        <img src='https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram' alt='Telegram'>
+        <img src='https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram' alt='Telegram'>
     </a>
     <!--<a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">

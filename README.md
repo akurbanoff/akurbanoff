@@ -5,7 +5,7 @@
     <i>
         I'm Kurbanov Artem.<br>
         I`m Android Developer.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Open to work on interesting and innovative projects.<br>
     </i><br>
     <a href='https://t.me/Kurbanov_artem'>
         <img src='https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram' alt='Telegram'>
@@ -14,8 +14,8 @@
 
 <div>
     <h3>About me</h3>
-    <p>I am 21 years old, I have been studying programming since December 2022. I also study at KubSAU at the Faculty of Finance and Credit.
-            I started my career as an android developer in May 2023. During this time I worked for AXAS. We were developing mvp versions of mobile applications. Afterwards, I moved to the Dostaevsky company as a middle android developer, where I work to this day.. All the technologies presented below are familiar to me and I work with them on an ongoing basis.
+    <p>I am 21 years old, I have been start my programming carrier since December 2022. I also study at KubSAU at the Faculty of Finance and Credit.
+            During my carrier i worked for SDS as junior android developer, where we develop and create apps for clients Afterwards i moved to the AXAS, where we were developing mvp versions of mobile applications. Afterwards, I moved to the Dostaevsky company as a middle android developer, where i develop courier and client app. All the technologies presented below are familiar to me and I work with them on an ongoing basis.
     </p>
 </div>
 

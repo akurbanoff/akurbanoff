@@ -14,15 +14,13 @@
 
 <div>
     <h3>About me</h3>
-    <p>I am 21 years old, I have been start my programming carrier since December 2022. I also study at KubSAU at the Faculty of Finance and Credit.
-            During my carrier i worked for SDS as junior android developer, where we develop and create apps for clients Afterwards i moved to the AXAS, where we were developing mvp versions of mobile applications. Afterwards, I moved to the Dostaevsky company as a middle android developer, where i develop courier and client app. All the technologies presented below are familiar to me and I work with them on an ongoing basis.
+    <p>I am 21 years old, I have been start programming since December 2022. I also study at KubSAU at the Faculty of Finance and Credit. Throughout my career, I have been involved in developing applications from scratch, as well as supporting large applications with millions of users. All the technologies presented below are familiar to me and I work with them on an ongoing basis.
     </p>
 </div>
 
 ### Languages
 [![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk)](https://github.com/akurbanoff)
 [![Kotlin](https://img.shields.io/badge/Kotlin-black?&style=for-the-badge&logo=kotlin)](https://github.com/akurbanoff)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/akurbanoff)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/akurbanoff)
 
 ### Technologies & Frameworks
